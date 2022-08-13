@@ -1,0 +1,13 @@
+.first-element {
+    background-color: rgb(3, 3, 3);
+    color: rgb(250, 246, 246);
+}
+
+.second-element {
+    background-color: rgb(221, 221, 60);
+}
+
+.buttons {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman" sans-serif;
+}
